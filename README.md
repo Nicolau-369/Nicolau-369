@@ -9,6 +9,7 @@
 - Com o intuíto de sempre proporcionar soluções e colaboração para um ambiente mais seguro e livre.
 - E também aceitarei ajuda para atualizações de futuros projetos colaborativos.
 - Email: ![Niccolo369@proton.me]
+  
 ![9ae13e5ddacb054aa2eb3098af53850f](https://github.com/Nicolau-369/Nicolau-369/assets/160781135/87727c47-e6db-4a91-b3cd-044450e2a3b8)
 
 
