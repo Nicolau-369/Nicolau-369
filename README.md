@@ -1,5 +1,5 @@
 - Olá, Seja Bem-vindo,
-- Me chamo Nicolau (Nic), eu sou programador há 4 anos, relacionado a desenvolvimento Full-Stck
+- Me chamo Nicolau (Nic), eu sou programador há 4 anos, relacionado a desenvolvimento Full-Stack
 - Atualmente eu desenvolvo Códigos para Automação de Tarefas, POO (Programação orientada a objetos), Pentesting, CyberSecurity,
 - Arquitetura de Softwares, Banco da Dados,
 - Em linguagens como [Shell-Script, Java, Python],
