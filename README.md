@@ -3,7 +3,7 @@
 - Atualmente estou estudando e desenvolvendo Códigos para Automação de Tarefas, POO (Programação orientada a objetos), Pentesting, CyberSecurity,
 - Arquitetura de Softwares, Banco da Dados,
 - Em linguagens como [Shell-Script, Java, Python],
-- Com a intenção de compartilhar aprendizados sobre várias questões relacionados ao meio tecnologico (Dentro e fora dela),
+- Com a intenção de compartilhar aprendizados sobre várias questões relacionados ao meio tecnológico (Dentro e fora dela),
 - Por isso será publicado, Documentações de projetos,
 - Projetos de Softwares Livre (Open Source),
 - Com o intuíto de sempre proporcionar soluções e colaboração para um ambiente mais seguro e livre.
