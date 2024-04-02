@@ -1,8 +1,8 @@
 - Olá, Seja Bem-vindo,
 - Me chamo Nicolau (Nick), eu sou programador há 4 anos, relacionado a desenvolvimento Full-Stack
 - Atualmente estou estudando e desenvolvendo Códigos para Automação de Tarefas, POO (Programação orientada a objetos), Pentesting, CyberSecurity,
-- Arquitetura de Softwares, Banco da Dados,
-- Em linguagens como [Shell-Script, Java, Python],
+- Arquitetura de Softwares, Banco da Dados, Web 3.0, Blockchain
+- Em linguagens como [Shell-Script, Java, Python, C, C++, Solidity],
 - Com a intenção de compartilhar aprendizados sobre várias questões relacionados ao meio tecnológico (Dentro e fora dela),
 - Por isso será publicado, Documentações de projetos,
 - Projetos de Softwares Livre (Open Source),
